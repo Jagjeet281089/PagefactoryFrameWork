@@ -49,7 +49,7 @@ public class TestBase {
 
 //========//========//========Initializations FUNCTIONS//========//========//========//========//========//
 	
-	// Log initialization
+	// Log initializations
 	public void log(String data) {
 		log.info(data);
 		Reporter.log(data);
